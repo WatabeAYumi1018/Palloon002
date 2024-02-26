@@ -1,0 +1,7 @@
+EnemyID,Type,Color,HP,Size
+0,Slim,bule,1,35
+1,Plant,red,1,35
+2,Magician,yellow,2,40
+3,Fairy,peach,2,25
+4,Bird,green,1,35
+5,Doragon,red,20,200
