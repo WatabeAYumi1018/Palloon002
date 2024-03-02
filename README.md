@@ -108,7 +108,7 @@
 
 ※そちらのリポジトリにも同じ内容のReadMeを付けさせていただいてます。
 
-http:https://github.com/WatabeAYumi1018/Palloon001
+https://github.com/WatabeAYumi1018/Palloon001
 
 ～アセットの著作権について～
 
